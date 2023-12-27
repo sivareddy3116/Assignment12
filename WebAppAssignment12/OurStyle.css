@@ -1,0 +1,37 @@
+﻿body {
+    background-color:aquamarine;
+    color:black;
+}
+h1,h2{text-align:center;}
+.topPanel
+{
+    position:absolute;
+    top:5%;
+    left:5%;
+    right:5%;
+    width:90%;
+    height:20%;
+    background-color:lawngreen;
+    color:black;
+
+}
+.mainPanel {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    height: 55%;
+    background-color: greenyellow;
+    color: black;
+}
+.footer {
+    position: absolute;
+    top: 90%;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    height: 10%;
+    background-color: orangered;
+    color: black;
+}
